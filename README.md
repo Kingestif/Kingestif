@@ -3,8 +3,8 @@ Hi, I'm **Estifanos**! I'm a passionate **Software Developer** and **UI/UX Desig
 
 
 ## 🌐 Socials:
-![Profile Views](https://komarev.com/ghpvc/?username=Kingestiff&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/estif/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@estifanos)
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Estiff_Z) 
+![Profile Views](https://komarev.com/ghpvc/?username=Kingestiff&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estif/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@estifanos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolioLink-brightgreen)](https://eazytech.framer.website/)
 
 # 💻 Tech Stack:
