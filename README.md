@@ -1,5 +1,7 @@
 # 👑 About Me:
-Hi, I'm **Estifanos**! I'm a passionate **Software Developer** and **UI/UX Designer** with over 3 years of experience in building scalable applications and crafting intuitive user interfaces.
+**`Full Stack Developer (ReactJS, NodeJS, Flutter)`**
+
+I'm a full-stack developer who enjoys building end-to-end systems — from clean APIs and efficient databases to responsive UIs that feel smooth and intentional.
 
 
 ## 🌐 Socials:
