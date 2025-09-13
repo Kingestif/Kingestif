@@ -11,19 +11,26 @@ I'm a full-stack developer who enjoys building end-to-end systems — from clean
 </p>
 
 <p align="center">
-  <a href="https://www.estifanos.me/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.estifanos.me/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/My%20Portfolio-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Portfolio"
+    />
   </a>
-  <a href="mailto:estifanoszinabuabebe@gmail.com">
+
+  <a href="mailto:estifanoszinabuabebe@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/estif/">
+
+  <a href="https://www.linkedin.com/in/estif/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/stiv_o">
+
+  <a href="https://t.me/stiv_o" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-    <a href="https://leetcode.com/u/estifo/">
+
+  <a href="https://leetcode.com/u/estifo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
