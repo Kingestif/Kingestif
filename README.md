@@ -1,5 +1,5 @@
 # 👑 About Me:
-**`Full Stack Developer (ReactJS, NodeJS, Flutter)`**
+**`Full Stack Developer (ReactJS, NextJS, NodeJS, Flutter)`**
 
 I'm a full-stack developer who enjoys building end-to-end systems — from clean APIs and efficient databases to responsive UIs that feel smooth and intentional.
 <p align="center">
