@@ -117,7 +117,6 @@ I'm a full-stack developer who enjoys building end-to-end systems, from clean AP
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Kingestif&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Kingestif&theme=github_dark)
 
 <!--## ✍️ Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
